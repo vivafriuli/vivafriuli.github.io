@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Manuel ¡Viva El Friuli!</title>
+    <link>https://vivafriuli.github.io/categories/</link>
+    <description>Recent content in Categories on Manuel ¡Viva El Friuli!</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
+    <atom:link href="https://vivafriuli.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
