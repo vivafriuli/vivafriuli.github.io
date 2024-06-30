@@ -2,12 +2,222 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel ¡Viva El Friuli!</title>
-    <link>https://vivafriuli.github.io/</link>
+    <link>http://localhost:45599/</link>
     <description>Recent content on Manuel ¡Viva El Friuli!</description>
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://vivafriuli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 18:32:37 -0400</lastBuildDate>
+    <atom:link href="http://localhost:45599/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Wonder of You</title>
+      <link>http://localhost:45599/post/the-wonder-of-you/</link>
+      <pubDate>Sat, 29 Jun 2024 18:32:37 -0400</pubDate>
+      <guid>http://localhost:45599/post/the-wonder-of-you/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Dont Be Cruel</title>
+      <link>http://localhost:45599/post/dont-be-cruel/</link>
+      <pubDate>Fri, 09 Oct 2020 04:59:17 -0400</pubDate>
+      <guid>http://localhost:45599/post/dont-be-cruel/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>I Dont Want to Be Tied</title>
+      <link>http://localhost:45599/post/i-dont-want-to-be-tied/</link>
+      <pubDate>Fri, 09 Oct 2020 03:59:00 -0400</pubDate>
+      <guid>http://localhost:45599/post/i-dont-want-to-be-tied/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Suspicious Minds</title>
+      <link>http://localhost:45599/post/suspicious-minds/</link>
+      <pubDate>Fri, 09 Oct 2020 03:42:32 -0400</pubDate>
+      <guid>http://localhost:45599/post/suspicious-minds/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Hound Dog</title>
+      <link>http://localhost:45599/post/hound-dog/</link>
+      <pubDate>Fri, 09 Oct 2020 03:26:39 -0400</pubDate>
+      <guid>http://localhost:45599/post/hound-dog/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Jailhouse Rock 2</title>
+      <link>http://localhost:45599/post/jailhouse-rock-2/</link>
+      <pubDate>Fri, 09 Oct 2020 01:46:24 -0400</pubDate>
+      <guid>http://localhost:45599/post/jailhouse-rock-2/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Jailhouse Rock</title>
+      <link>http://localhost:45599/post/jailhouse-rock/</link>
+      <pubDate>Fri, 09 Oct 2020 01:43:18 -0400</pubDate>
+      <guid>http://localhost:45599/post/jailhouse-rock/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>It&#39;s Now or Never</title>
+      <link>http://localhost:45599/post/its-now-or-never/</link>
+      <pubDate>Fri, 09 Oct 2020 01:38:53 -0400</pubDate>
+      <guid>http://localhost:45599/post/its-now-or-never/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Love Me Tender</title>
+      <link>http://localhost:45599/post/love-me-tender/</link>
+      <pubDate>Fri, 09 Oct 2020 01:35:57 -0400</pubDate>
+      <guid>http://localhost:45599/post/love-me-tender/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>An American Trilogy</title>
+      <link>http://localhost:45599/post/an-american-trilogy/</link>
+      <pubDate>Fri, 09 Oct 2020 01:33:13 -0400</pubDate>
+      <guid>http://localhost:45599/post/an-american-trilogy/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Are You Lonesome Tonight</title>
+      <link>http://localhost:45599/post/are-you-lonesome-tonight/</link>
+      <pubDate>Fri, 09 Oct 2020 01:30:17 -0400</pubDate>
+      <guid>http://localhost:45599/post/are-you-lonesome-tonight/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Separate Ways</title>
+      <link>http://localhost:45599/post/separate-ways/</link>
+      <pubDate>Fri, 09 Oct 2020 01:27:34 -0400</pubDate>
+      <guid>http://localhost:45599/post/separate-ways/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>It&#39;s Over</title>
+      <link>http://localhost:45599/post/its-over/</link>
+      <pubDate>Fri, 09 Oct 2020 01:25:08 -0400</pubDate>
+      <guid>http://localhost:45599/post/its-over/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>A Little Less Conversation</title>
+      <link>http://localhost:45599/post/a-little-less-conversation/</link>
+      <pubDate>Fri, 09 Oct 2020 01:20:27 -0400</pubDate>
+      <guid>http://localhost:45599/post/a-little-less-conversation/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>A Fool Such as I</title>
+      <link>http://localhost:45599/post/a-fool-such-as-i/</link>
+      <pubDate>Fri, 09 Oct 2020 01:15:01 -0400</pubDate>
+      <guid>http://localhost:45599/post/a-fool-such-as-i/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Guitar Man</title>
+      <link>http://localhost:45599/post/guitar-man/</link>
+      <pubDate>Fri, 09 Oct 2020 01:11:35 -0400</pubDate>
+      <guid>http://localhost:45599/post/guitar-man/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Trouble</title>
+      <link>http://localhost:45599/post/trouble/</link>
+      <pubDate>Fri, 09 Oct 2020 01:08:32 -0400</pubDate>
+      <guid>http://localhost:45599/post/trouble/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Never Been to Spain</title>
+      <link>http://localhost:45599/post/never-been-to-spain/</link>
+      <pubDate>Fri, 09 Oct 2020 01:06:04 -0400</pubDate>
+      <guid>http://localhost:45599/post/never-been-to-spain/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Blue Suede Shoes Hawaii</title>
+      <link>http://localhost:45599/post/blue-suede-shoes-hawaii/</link>
+      <pubDate>Fri, 09 Oct 2020 01:01:02 -0400</pubDate>
+      <guid>http://localhost:45599/post/blue-suede-shoes-hawaii/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Blue Suede Shoes</title>
+      <link>http://localhost:45599/post/blue-suede-shoes/</link>
+      <pubDate>Fri, 09 Oct 2020 00:48:39 -0400</pubDate>
+      <guid>http://localhost:45599/post/blue-suede-shoes/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>I Was the One</title>
+      <link>http://localhost:45599/post/i-was-the-one/</link>
+      <pubDate>Fri, 09 Oct 2020 00:44:05 -0400</pubDate>
+      <guid>http://localhost:45599/post/i-was-the-one/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Mystery Train</title>
+      <link>http://localhost:45599/post/mystery-train/</link>
+      <pubDate>Fri, 09 Oct 2020 00:40:26 -0400</pubDate>
+      <guid>http://localhost:45599/post/mystery-train/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>I want you, I need you, I love you</title>
+      <link>http://localhost:45599/post/seis/</link>
+      <pubDate>Fri, 09 Oct 2020 00:36:15 -0400</pubDate>
+      <guid>http://localhost:45599/post/seis/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Always on my mind</title>
+      <link>http://localhost:45599/post/cinco/</link>
+      <pubDate>Fri, 09 Oct 2020 00:26:36 -0400</pubDate>
+      <guid>http://localhost:45599/post/cinco/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Burning Love</title>
+      <link>http://localhost:45599/post/cuatro/</link>
+      <pubDate>Fri, 09 Oct 2020 00:23:10 -0400</pubDate>
+      <guid>http://localhost:45599/post/cuatro/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>I shall not be moved</title>
+      <link>http://localhost:45599/post/tres/</link>
+      <pubDate>Fri, 09 Oct 2020 00:06:20 -0400</pubDate>
+      <guid>http://localhost:45599/post/tres/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Until Its Time for You to Go</title>
+      <link>http://localhost:45599/post/until-its-time-for-you-to-go/</link>
+      <pubDate>Fri, 02 Oct 2020 04:29:56 -0400</pubDate>
+      <guid>http://localhost:45599/post/until-its-time-for-you-to-go/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>In the Ghetto</title>
+      <link>http://localhost:45599/post/in-the-ghetto/</link>
+      <pubDate>Thu, 01 Oct 2020 03:36:32 -0400</pubDate>
+      <guid>http://localhost:45599/post/in-the-ghetto/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Blue Christmas</title>
+      <link>http://localhost:45599/post/dos/</link>
+      <pubDate>Tue, 11 Aug 2020 07:42:26 -0400</pubDate>
+      <guid>http://localhost:45599/post/dos/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>I got stung</title>
+      <link>http://localhost:45599/post/uno/</link>
+      <pubDate>Tue, 11 Aug 2020 07:28:35 -0400</pubDate>
+      <guid>http://localhost:45599/post/uno/</guid>
+      <description> </description>
+    </item>
   </channel>
 </rss>
