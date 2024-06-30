@@ -7,7 +7,21 @@
     <generator>Hugo</generator>
     <language>es</language>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 18:32:37 -0400</lastBuildDate>
     <atom:link href="https://vivafriuli.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Wonder of You</title>
+      <link>https://vivafriuli.github.io/post/the-wonder-of-you/</link>
+      <pubDate>Sat, 29 Jun 2024 18:32:37 -0400</pubDate>
+      <guid>https://vivafriuli.github.io/post/the-wonder-of-you/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Dont Be Cruel</title>
+      <link>https://vivafriuli.github.io/post/dont-be-cruel/</link>
+      <pubDate>Fri, 09 Oct 2020 04:59:17 -0400</pubDate>
+      <guid>https://vivafriuli.github.io/post/dont-be-cruel/</guid>
+      <description> </description>
+    </item>
   </channel>
 </rss>
